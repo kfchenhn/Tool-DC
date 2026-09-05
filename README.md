@@ -1,8 +1,5 @@
 # Try, Check and Retry: A Divide-and-Conquer Framework for Boosting Long-context Tool-Calling Capabilities of LLMs
 
-
-This is the official implementation of our paper submitted to ACL2026.
-
 ## Dataset Preparation
 
 We provide preprocessed Inference and SFT datasets in the following directories:
